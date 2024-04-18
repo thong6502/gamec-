@@ -1,0 +1,40 @@
+so luong tai khoan: 12
+so luong mat khau : 12
+thong tin accout da duoc dang ki
++---+------------------------------+
+|1  |accout   :thong2k2            |
+|   |password :2k2                 |
++---+------------------------------+
+|2  |accout   :desbuon             |
+|   |password :tyt                 |
++---+------------------------------+
+|3  |accout   :thongcute           |
+|   |password :tlt                 |
++---+------------------------------+
+|4  |accout   :02227227            |
+|   |password :tye                 |
++---+------------------------------+
+|5  |accout   :t                   |
+|   |password :t                   |
++---+------------------------------+
+|6  |accout   :                    |
+|   |password :                    |
++---+------------------------------+
+|7  |accout   :vanthong            |
+|   |password :2k2                 |
++---+------------------------------+
+|8  |accout   :nhatban             |
+|   |password :2k2                 |
++---+------------------------------+
+|9  |accout   :shoppe              |
+|   |password :2k2                 |
++---+------------------------------+
+|10 |accout   :lazada              |
+|   |password :2k2                 |
++---+------------------------------+
+|11 |accout   :tnb                 |
+|   |password :2k2                 |
++---+------------------------------+
+|12 |accout   :abc                 |
+|   |password :2k2                 |
++---+------------------------------+
